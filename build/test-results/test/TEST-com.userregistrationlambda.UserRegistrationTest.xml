@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.userregistrationlambda.UserRegistrationTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2021-08-07T03:12:12" hostname="DESKTOP-4Q550E8" time="0.068">
+  <properties/>
+  <testcase name="givenFirstName_WithNumberOrSpecialChar_ShouldReturnFalse()" classname="com.userregistrationlambda.UserRegistrationTest" time="0.025"/>
+  <testcase name="givenMail_WhenValid_ShouldReturnTrue()" classname="com.userregistrationlambda.UserRegistrationTest" time="0.003"/>
+  <testcase name="givenMobileNumber_WhenValid_ShouldReturnTrue()" classname="com.userregistrationlambda.UserRegistrationTest" time="0.002"/>
+  <testcase name="givenFirstName_WhenValid_ShouldReturnTrue()" classname="com.userregistrationlambda.UserRegistrationTest" time="0.001"/>
+  <testcase name="givenPassword_WhenNoUpperCase_ShouldReturnFalse()" classname="com.userregistrationlambda.UserRegistrationTest" time="0.001"/>
+  <testcase name="givenPassword_WhenValid_ShouldReturnTrue()" classname="com.userregistrationlambda.UserRegistrationTest" time="0.001"/>
+  <testcase name="givenPassword_WhenShort_ShouldReturnFalse()" classname="com.userregistrationlambda.UserRegistrationTest" time="0.002"/>
+  <testcase name="givenFirstName_WhenStartingNotCapital_ShouldReturnFalse()" classname="com.userregistrationlambda.UserRegistrationTest" time="0.003"/>
+  <testcase name="givenMail_WithoutUserName_ShouldReturnFalse()" classname="com.userregistrationlambda.UserRegistrationTest" time="0.001"/>
+  <testcase name="givenMail_WithoutAtTheRate_ShouldReturnFalse()" classname="com.userregistrationlambda.UserRegistrationTest" time="0.001"/>
+  <testcase name="givenMobileNumber_WhenShort_ShouldReturnFalse()" classname="com.userregistrationlambda.UserRegistrationTest" time="0.002"/>
+  <testcase name="givenFirstName_WhenShort_ShouldReturnFalse()" classname="com.userregistrationlambda.UserRegistrationTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
